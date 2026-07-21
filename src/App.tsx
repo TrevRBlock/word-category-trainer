@@ -252,7 +252,6 @@ const adverbQuestionTexts: QuestionText[] = [
   ["They studied ", "abroad", " for one year."],
   ["The children worked ", "together", "."],
   ["She went ", "upstairs", " to find her coat."],
-  ["The roads were icy; ", "therefore", ", the school closed."],
   ["", "Nevertheless", ", the team continued working."],
 ];
 
