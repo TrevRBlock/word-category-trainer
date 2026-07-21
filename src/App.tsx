@@ -507,7 +507,7 @@ const modalQuestionTexts: QuestionText[] = [
 
   ["She ", "must", " have been sleeping when we called."],
   ["The train ", "may", " have been delayed."],
-  ["They ", "could", " be working from home."],
+  ["They ", "should", " be working from home."],
   ["You ", "should", " have checked the schedule."],
   ["The package ", "will", " be delivered tomorrow."],
   ["I ", "would", " have called earlier."],
