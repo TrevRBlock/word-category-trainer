@@ -381,7 +381,7 @@ const conjunctionQuestionTexts: QuestionText[] = [
   ["The bus was delayed, ", "so", " we walked."],
 ];
 
-const complementizerQuestionTexts: QuestionTest[] = [
+const complementizerQuestionTexts: QuestionText[] = [
 
   // Subordinating conjunctions
   ["We stayed inside ", "because", " it was raining."],
